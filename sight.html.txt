@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>世界风景介绍</title>
+</head>
+<body>
+    <h1>世界风景介绍</h1>
+
+    <h2>中国</h2>
+    <p>中国是一个拥有悠久历史和壮丽风景的国家。</p>
+    <p>著名景点：</p>
+    <ul>
+        <li><a href="https://baike.baidu.com/item/%E9%95%BF%E5%9F%8E%E5%8F%A4%E5%9F%8E">长城</a></li>
+        <li><a href="https://baike.baidu.com/item/%E9%BB%84%E5%B1%B1">黄山</a></li>
+        <li><a href="https://baike.baidu.com/item/%E6%B3%B0%E5%B1%B1%E5%A4%A9%E6%A2%AF">泰山</a></li>
+    </ul>
+
+    <h2>美国</h2>
+    <p>美国是一个多样化的国家，拥有令人叹为观止的自然景观。</p>
+    <p>著名景点：</p>
+    <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Grand_Canyon">大峡谷</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Yellowstone_National_Park">黄石国家公园</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Yosemite_National_Park">约塞米蒂国家公园</a></li>
+    </ul>
+
+    <h2>法国</h2>
+    <p>法国以其浪漫的城市和迷人的乡村风景而闻名。</p>
+    <p>著名景点：</p>
+    <ul>
+        <li><a href="https://fr.wikipedia.org/wiki/Tour_Eiffel">埃菲尔铁塔</a></li>
+        <li><a href="https://fr.wikipedia.org/wiki/Mont_Saint-Michel">圣米歇尔山</a></li>
+        <li><a href="https://fr.wikipedia.org/wiki/Lavender">普罗旺斯薰衣草田</a></li>
+    </ul>
+</body>
+</html>
